@@ -1,6 +1,6 @@
 # CSE414 Machine Learning
 
-4th year, 1st semester Machine Learning assignemnts. 
+4th year, 1st semester Machine Learning assignments. 
 
 Concepts covered: 
 * Dimensionality Reduction -> assign1
